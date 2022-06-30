@@ -1,6 +1,6 @@
 # Kotuko_Django_Challenge
 
-Hi, This project is copleted according to the requirements asked in Kotuko Coding Challenge.
+Hi, This project is completed according to the requirements asked in Kotuko Coding Challenge.
 
 # Installation
 
